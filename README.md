@@ -1,2 +1,2 @@
-# apiExample
-Examples for some API
+# ExampleCollections
+Example Collections for some Tools
